@@ -21,3 +21,5 @@ admin.site.register(Product,ProductAdmin)
 admin.site.register(ProductImages)
 admin.site.register(Brand)
 admin.site.register(Review)
+
+
